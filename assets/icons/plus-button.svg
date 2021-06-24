@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>plus-button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alur_wire_duo_products" transform="translate(-703.000000, -1202.000000)">
+            <g id="framing" transform="translate(0.000000, 140.000000)">
+                <g id="Group" transform="translate(624.000000, 1030.000000)">
+                    <g id="plus-button" transform="translate(80.000000, 33.000000)">
+                        <rect id="Rectangle-11" stroke="#3E9C98" x="-0.5" y="-0.5" width="33" height="33" rx="16.5"></rect>
+                        <path d="M17,15 L24,15 L24,17 L17,17 L17,24 L15,24 L15,17 L8,17 L8,15 L15,15 L15,8 L17,8 L17,15 Z" id="Combined-Shape" fill="#3E9C98"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

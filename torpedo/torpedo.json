@@ -1,0 +1,11 @@
+{
+    "routes": [
+        {"route": "/:anything", "template": "index", "redirect": null}
+    ],
+    "watching_enabled": true,
+    "caching_enabled": false,
+    "address": "0.0.0.0",
+    "basic_auth": null,
+    "app_name": "alurwalls",
+    "port": 9000
+}
